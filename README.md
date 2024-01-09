@@ -84,4 +84,4 @@ This project achieved the successful deployment of a WordPress website on AWS, i
 
 ## Project Artifacts:
 
-Explore the GitHub repository ([Link to the Repository]([(https://github.com/bconway1906/Deploy-WordPress-Website-on-AWS/tree/main]))) for the complete set of diagrams and deployment scripts used in this project.
+Explore the GitHub repository ([Link to the Repository](https://github.com/bconway1906/Deploy-WordPress-Website-on-AWS)) for the complete set of diagrams and deployment scripts used in this project.
