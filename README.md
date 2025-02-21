@@ -49,8 +49,7 @@ In this DevOps project, I successfully deployed a WordPress website on AWS using
     - Launched an EC2 instance in the public subnet AZ1 with SSH, ALB, and Webserver security groups.
 
 11. **WordPress Installation:**
-    - Executed scripts for updating mount information of EFS.
-   <img width="320" alt="image" src="https://github.com/bconway1906/Deploy-WordPress-Website-on-AWS/assets/148906255/7c751e41-b0af-411f-bb7a-4989592ff171">
+    - Execute scripts for updating mount information of EFS.
 
    <img width="242" alt="image" src="https://github.com/bconway1906/Deploy-WordPress-Website-on-AWS/assets/148906255/516f9c94-b249-4ee1-8197-4771aa426ab3">
 
@@ -82,6 +81,3 @@ In this DevOps project, I successfully deployed a WordPress website on AWS using
 
 This project achieved the successful deployment of a WordPress website on AWS, incorporating best practices for infrastructure design and ensuring reliability, security, and scalability. The GitHub repository contains detailed diagrams and scripts for reference.
 
-## Project Artifacts:
-
-Explore the GitHub repository ([Link to the Repository](https://github.com/bconway1906/Deploy-WordPress-Website-on-AWS)) for the complete set of diagrams and deployment scripts used in this project.
